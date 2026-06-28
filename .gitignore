@@ -1,0 +1,8 @@
+# Temporary backup
+backend/.git_backup/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
